@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479825602375",
+    "firebase_url": "https://healthapp-b3dbb-default-rtdb.firebaseio.com",
+    "project_id": "healthapp-b3dbb",
+    "storage_bucket": "healthapp-b3dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479825602375:android:f6bc920ed668df104f4e62",
+        "android_client_info": {
+          "package_name": "com.vrnitsolution.healthappnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479825602375-a5dikea3cdprdoo82a6rilpc0ihuqdlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvNOmX55CM0tfjyyKB5iCA8BSoCdQ8JLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479825602375-a5dikea3cdprdoo82a6rilpc0ihuqdlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
