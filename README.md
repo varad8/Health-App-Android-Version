@@ -14,6 +14,7 @@ To set up admin credentials for your Firestore database, follow these steps:
 
    ![Firestore Health App](https://github.com/varad8/Health-App-Android-Version/blob/main/firestore%20health%20app.png)
 
+3. Also first connect your app with firebase
 
 ## Requirements
 
