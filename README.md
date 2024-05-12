@@ -2,9 +2,18 @@
 
 The Health App is your comprehensive solution for efficient health record management. This app is designed to simplify the process of handling health records by securely managing them in the cloud. Here are the key features and requirements of the Health App:
 
-## Demo
+## Admin Credential Setup
 
-Check out the live demo of the project [here](https://www.vrnitsolution.tech/projects/30e6f039-41ea-42a2-9282-bcd2eae7398b).
+To set up admin credentials for your Firestore database, follow these steps:
+
+1. Create a collection named `adminUser` in your Firestore database.
+
+2. Add a document to the `adminUser` collection with the necessary admin credentials.
+
+   Example document structure:
+
+   ![Firestore Health App](https://github.com/varad8/Health-App-Android-Version/blob/main/firestore%20health%20app.png)
+
 
 ## Requirements
 
